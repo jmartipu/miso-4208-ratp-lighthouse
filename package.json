@@ -1,0 +1,14 @@
+{
+  "name": "ratp-lighthouse-recipe",
+  "version": "1.0.0",
+  "description": "Pruebas lighthouse para proyecto ratp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Martín",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse": "^2.9.4"
+  }
+}
